@@ -7,12 +7,12 @@
     "tags": ["roleplay"],
     "files": [
       {
-        "from": "soundpacks/roleplay1/1.rpf",
-        "to": "x64/audio/sfx/1.rpf"
+        "from": "soundpacks/roleplay1/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
       },
       {
-        "from": "soundpacks/roleplay1/2.rpf",
-        "to": "x64/audio/sfx/2.rpf"
+        "from": "soundpacks/roleplay1/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
       }
     ]
   },
@@ -24,12 +24,12 @@
     "tags": ["roleplay"],
     "files": [
       {
-        "from": "soundpacks/roleplay2/1.rpf",
-        "to": "x64/audio/sfx/1.rpf"
+        "from": "soundpacks/roleplay2/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
       },
       {
-        "from": "soundpacks/roleplay2/2.rpf",
-        "to": "x64/audio/sfx/2.rpf"
+        "from": "soundpacks/roleplay2/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
       }
     ]
   }
