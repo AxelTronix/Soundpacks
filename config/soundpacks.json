@@ -1,0 +1,36 @@
+[
+  {
+    "id": "roleplay1",
+    "name": "Roleplay Pack 1",
+    "author": "YourName",
+    "description": "...",
+    "tags": ["roleplay"],
+    "files": [
+      {
+        "from": "soundpacks/roleplay1/1.rpf",
+        "to": "x64/audio/sfx/1.rpf"
+      },
+      {
+        "from": "soundpacks/roleplay1/2.rpf",
+        "to": "x64/audio/sfx/2.rpf"
+      }
+    ]
+  },
+  {
+    "id": "roleplay2",
+    "name": "Roleplay Pack 2",
+    "author": "YourName",
+    "description": "...",
+    "tags": ["roleplay"],
+    "files": [
+      {
+        "from": "soundpacks/roleplay2/1.rpf",
+        "to": "x64/audio/sfx/1.rpf"
+      },
+      {
+        "from": "soundpacks/roleplay2/2.rpf",
+        "to": "x64/audio/sfx/2.rpf"
+      }
+    ]
+  }
+]
