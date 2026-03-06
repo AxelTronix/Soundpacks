@@ -1,5 +1,22 @@
 [
   {
+    "id": "Default",
+    "name": "Default",
+    "author": "gtaV",
+    "description": "...",
+    "tags": [],
+    "files": [
+      {
+        "from": "soundpacks/default/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/default/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
     "id": "roleplay1",
     "name": "Roleplay Pack 1",
     "author": "YourName",
@@ -47,6 +64,42 @@
       },
       {
         "from": "soundpacks/blinksp7/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "rrhen1",
+    "name": "RRhen 1",
+    "author": "RRhen",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/rrhen1/rrhen1.mp4",
+    "files": [
+      {
+        "from": "soundpacks/rrhen1/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/rrhen1/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "acex2",
+    "name": "Acex 2",
+    "author": "Acex",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/acex2/acex2.mp4",
+    "files": [
+      {
+        "from": "soundpacks/acex2/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/acex2/RESIDENT.rpf",
         "to": "x64/audio/sfx/RESIDENT.rpf"
       }
     ]
