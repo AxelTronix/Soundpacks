@@ -5,7 +5,6 @@
     "author": "YourName",
     "description": "...",
     "tags": ["roleplay"],
-    "previewUrl": "soundpacks/roleplay1/preview.mp4",
     "files": [
       {
         "from": "soundpacks/roleplay1/WEAPONS_PLAYER.rpf",
@@ -23,7 +22,6 @@
     "author": "YourName",
     "description": "...",
     "tags": ["roleplay"],
-    "previewUrl": "soundpacks/roleplay1/preview.mp4",
     "files": [
       {
         "from": "soundpacks/roleplay2/WEAPONS_PLAYER.rpf",
@@ -31,6 +29,24 @@
       },
       {
         "from": "soundpacks/roleplay2/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "blinksp7",
+    "name": "Blink SP 7",
+    "author": "Blink",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/blinksp7/blinksp7.mp4",
+    "files": [
+      {
+        "from": "soundpacks/blinksp7/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/blinksp7/RESIDENT.rpf",
         "to": "x64/audio/sfx/RESIDENT.rpf"
       }
     ]
