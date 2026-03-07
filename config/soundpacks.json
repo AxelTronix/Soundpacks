@@ -103,5 +103,152 @@
         "to": "x64/audio/sfx/RESIDENT.rpf"
       }
     ]
-  }
+  },
+
+
+  {
+    "id": "lachie5",
+    "name": "Lachie 5",
+    "author": "Lachie",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Lachie5/Lachie5.mp4",
+    "files": [
+      {
+        "from": "soundpacks/lachie5/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/lachie5/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "lachie6",
+    "name": "Lachie 6",
+    "author": "Lachie",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Lachie6/Lachie6.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Lachie6/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Lachie6/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+{
+    "id": "lachie7",
+    "name": "Lachie 7",
+    "author": "Lachie",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Lachie7/Lachie7.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Lachie7/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Lachie7/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "lachie8",
+    "name": "Lachie 8",
+    "author": "Lachie",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Lachie8/Lachie8.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Lachie8/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Lachie8/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "lachie9",
+    "name": "Lachie 9",
+    "author": "Lachie",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Lachie9/Lachie9.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Lachie9/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Lachie9/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "pluto1",
+    "name": "Pluto 1",
+    "author": "Pluto",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Pluto1/Pluto1.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Pluto1/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Pluto1/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "pluto2",
+    "name": "Pluto 2",
+    "author": "Pluto",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Pluto2/Pluto2.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Pluto2/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Pluto2/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+  {
+    "id": "riovanni1",
+    "name": "Riovanni 1",
+    "author": "Riovanni",
+    "description": "...",
+    "tags": ["pvp", "headshots", "loud-footsteps", "reload"],
+    "previewUrl": "soundpacks/Riovanni1/Riovanni1.mp4",
+    "files": [
+      {
+        "from": "soundpacks/Riovanni1/WEAPONS_PLAYER.rpf",
+        "to": "x64/audio/sfx/WEAPONS_PLAYER.rpf"
+      },
+      {
+        "from": "soundpacks/Riovanni1/RESIDENT.rpf",
+        "to": "x64/audio/sfx/RESIDENT.rpf"
+      }
+    ]
+  },
+
 ]
